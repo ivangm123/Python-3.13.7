@@ -24,4 +24,4 @@ def dni():
     else:
         print("Debes introducir 8 digitos")
 dni()
-#Fin
+#Fin programa
